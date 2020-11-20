@@ -6,6 +6,58 @@ repo: ionata.com.au-uptime # Your Github repository name
 sites:
   - name: Ionata
     url: https://ionata.com.au
+  - name: Gowans Auctions
+    url: https://www.gowansauctions.com.au/
+  - name: Wildtracker
+    url: https://www.wildtracker.com.au/
+  - name: The Friends' School
+    url: https://www.friends.tas.edu.au/
+  - name: Women with Disabilities Australia (WWDA)
+    url: https://wwda.org.au/
+  - name: The Cat Clinic
+    url: https://www.catvethobart.com.au/
+  - name: Huon Valley Council
+    url: https://www.huonvalleytas.com/
+  - name: The Human Practice
+    url: https://www.thehumanpractice.com/
+  - name: Premier Travel Tasmania
+    url: https://www.premiertraveltasmania.com/
+  - name: Work & Training
+    url: https://www.workandtraining.com.au/
+  - name: Disaster Resilience Education Tasmania
+    url: https://disasterresiliencetas.com.au/
+  - name: Mount Carmel
+    url: https://mountcarmel.tas.edu.au/
+  - name: Devine Property
+    url: https://www.devineproperty.com.au/
+  - name: Inspiring Tasmania
+    url: https://inspiringtas.org.au/
+  - name: Riverfront Motel + Villas
+    url: https://riverfronthobart.com/
+  - name: MEDDLE
+    url: https://meddle-scor149.org/
+  - name: New Horizons Preschool
+    url: https://newhorizonspreschool.com.au/
+  - name: SES Tasmania
+    url: https://www.ses.tas.gov.au/
+  - name: The Orb
+    url: https://www.theorb.tas.gov.au/
+  - name: gulliver.
+    url: https://gogulliver.co/
+  - name: Huon Aquaculture
+    url: https://www.huonaqua.com.au/
+  - name: Petrusma Property
+    url: https://www.petrusma.com.au/
+  - name: Huon Aquaculture Sustainability Dashboard
+    url: https://dashboard.huonaqua.com.au/
+  - name: Port Arthur Historic Sites
+    url: https://portarthur.org.au/
+  - name: Tasmania Police Recruitment
+    url: https://recruitment.police.tas.gov.au/
+  - name: Tasmanian Arts Guide
+    url: https://tasmanianartsguide.com.au/
+  - name: TasTAFE
+    url: https://www.tastafe.tas.edu.au/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
