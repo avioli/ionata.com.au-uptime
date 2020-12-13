@@ -76,19 +76,19 @@
     "url": "https://wwda.org.au/",
     "icon": "https://favicons.githubusercontent.com/wwda.org.au",
     "slug": "women-with-disabilities-australia-wwda",
-    "status": "down",
-    "uptime": "98.02%",
-    "uptimeDay": "53.50%",
-    "uptimeWeek": "93.36%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "98.02%",
-    "time": 3293,
-    "timeDay": 10968,
-    "timeWeek": 6374,
-    "timeMonth": 3293,
-    "timeYear": 3293,
+    "status": "up",
+    "uptime": "97.96%",
+    "uptimeDay": "51.95%",
+    "uptimeWeek": "93.14%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.96%",
+    "time": 3220,
+    "timeDay": 9725,
+    "timeWeek": 5991,
+    "timeMonth": 3220,
+    "timeYear": 3220,
     "dailyMinutesDown": {
-      "2020-12-13": 670
+      "2020-12-13": 692
     }
   },
   {
