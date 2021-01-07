@@ -315,9 +315,9 @@
     "url": "https://www.ses.tas.gov.au/",
     "icon": "https://favicons.githubusercontent.com/www.ses.tas.gov.au",
     "slug": "ses-tasmania",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -326,7 +326,9 @@
     "timeWeek": 1661,
     "timeMonth": 1789,
     "timeYear": 1796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-07": 0
+    }
   },
   {
     "name": "The Orb",
