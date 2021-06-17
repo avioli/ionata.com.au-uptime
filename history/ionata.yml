@@ -1,7 +1,7 @@
 url: https://ionata.com.au
-status: up
-code: 200
-responseTime: 865
-lastUpdated: 2021-06-16T23:13:47.338Z
+status: down
+code: 503
+responseTime: 773
+lastUpdated: 2021-06-17T14:22:18.499Z
 startTime: Thu Nov 19 2020 23:43:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
